@@ -23,5 +23,5 @@ Similary we have Faculty panel whose right is to:
 The Tech-Stack:
 1) MySQL
 2) Java
-3) jDBC driver
+3) JDBC driver
 
