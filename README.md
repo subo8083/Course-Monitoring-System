@@ -20,7 +20,7 @@ Similary we have Faculty panel whose right is to:
 5) Search faculty by using his/her username
 6) Update password
 
-The Tech-Stack used:
+The Tech-Stack:
 1) MySQL
 2) Java
 3) jDBC driver
