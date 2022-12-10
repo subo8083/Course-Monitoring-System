@@ -2,6 +2,8 @@
 
 In this project I have designed a course monitoring system using MySQL and JDBC driver along with java, here 4 tables is added i.e Batch, Faculty, Course, Course-Plan and with the help of these tables several operations is perfomed using Scanner class(By taking input from user) i.e, DYNAMICALLY. 
 
+## Link: https://drive.google.com/file/d/1kWSJODAXnR_mNhDEgaItUsY7X4-G3pTu/view?usp=sharing
+
 The Admin has following responsiblities and rights to perform operations like:
 #
 1) Login using username and password
@@ -25,4 +27,4 @@ The Tech-Stack:
 2) Java
 3) JDBC driver
 
-## Link: https://drive.google.com/file/d/1kWSJODAXnR_mNhDEgaItUsY7X4-G3pTu/view?usp=sharing
+
